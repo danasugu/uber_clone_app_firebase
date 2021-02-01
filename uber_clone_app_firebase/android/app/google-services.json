@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1083864431464",
+    "firebase_url": "https://dstaxi-b6bec-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dstaxi-b6bec",
+    "storage_bucket": "dstaxi-b6bec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083864431464:android:b0de5963325df562d5f4dd",
+        "android_client_info": {
+          "package_name": "com.danasugu.uber_clone_app_firebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083864431464-j372kkhn73dabjrjo5bgth9h7h3frh70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkyRMrnWy_TOb24Mxhet4OoectiSHPYTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083864431464-j372kkhn73dabjrjo5bgth9h7h3frh70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
